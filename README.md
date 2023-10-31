@@ -11,4 +11,4 @@ Features:
 
 # Download
 
-[MiCalc.zip](https://bitbucket.org/liiws/GetColor/downloads/GetColor.7z) (0.1 MB).
+[MiCalc.7z](https://github.com/liiws/GetColor/releases/download/0.99/GetColor.7z) (0.1 MB).
