@@ -13,8 +13,8 @@ namespace GetColor
 		{
 			InitializeComponent();
 			Text = String.Format("About {0}", AssemblyTitle);
-			lbTitleVersion.Text = "GetColor v0.99";
-			lbCopyright.Text = "Copyright (c) 2010-2013 Alexey V. Grishin";
+			lbTitleVersion.Text = "GetColor v1.1";
+			lbCopyright.Text = "Copyright (c) 2010-2024 Alexey V. Grishin";
 			tbHelp.Text = @"You can:
 1. Hold ALT button and move mouse to select a color from screen. Selected color will be in the clipboard when you release ALT key.
 2. Paste color and look what it means.
